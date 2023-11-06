@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TestDemo</string>
+    <string name="something_went_wrong">Something Went Wrong</string>
+    <string name="server_error">Server Error</string>
+    <string name="login_screen">Login Screen</string>
+    <string name="button">Button</string>
+    <string name="user_name">User name</string>
+    <string name="home_screen">Home Screen</string>
+    <string name="password">Password</string>
+</resources>
